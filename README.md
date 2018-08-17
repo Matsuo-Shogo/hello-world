@@ -1,2 +1,2 @@
-# hello-wourd
+# hello-world
 Just another repository
